@@ -16,6 +16,9 @@
 #
 
 # First draft, 2022-06-28: 
+# Lots of room to be made more realistic
+# Needs a front-end that generates user profiles (as many as desired),
+#   persists them, & generates reminders for when to log data
 
 from datetime import date, timedelta
 from typing import Iterable, Tuple, Optional, Callable
